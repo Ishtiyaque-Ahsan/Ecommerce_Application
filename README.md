@@ -1,7 +1,4 @@
-﻿# Welcome to Spring Security Course from Basic to Advance
-
-
-GROW AS JAVA DEVELOPER
-1. SIGNUP FOR MY SPRING BOOT FOR BEGINNERS COURSE: http://link.embarkx.com/spring-boot
-2. LEARN JAVA WITH 60+ HOURS OF CONTENT: http://link.embarkx.com/java
-3. MASTER INTELLIJ IDEA: http://link.embarkx.com/intellij
+﻿• Engineered a robust e-commerce web app backend using Spring Boot, implementing a scalable RESTful 
+API architecture. 
+• Integrated Spring Security with JWT to manage secure user authentication and role-based access control. 
+• Leveraged MySQL with Spring Data JPA for efficient data persistence and complex query management. 
